@@ -24,6 +24,7 @@ Currently, I'm focused on:
 Enhancing my skills in full-stack development with a focus on creating dynamic and responsive web applications.
 Contributing to open-source projects to give back to the community and collaborate with other developers.
 Building my portfolio with projects that showcase my development and design skills.
+
 🌱 Let's Connect
 I’m always open to discussing new opportunities, collaborations, or just geeking out about the latest in tech. If you’re interested in working together or just want to say hello, feel free to reach out!
 
