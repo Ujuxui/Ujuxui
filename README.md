@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Ujwala
 
-Welcome to my GitHub profile! 
-
-I’m passionate about creating elegant, efficient, and user-friendly web applications. My journey in tech has been driven by a love for building and designing intuitive interfaces and robust back-end systems.
-
 🚀 About Me
 
 Frontend Developer: Skilled in HTML, CSS, JavaScript, and React. I enjoy crafting pixel-perfect UI components and ensuring a seamless user experience.
