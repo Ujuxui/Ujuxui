@@ -1,21 +1,28 @@
-## Hi there 👋 I'm Ujwala
+# Hi there 👋 I'm Ujwala
 
-🚀 About Me
+## 🚀 About Me
 
-Frontend Developer: Skilled in HTML, CSS, JavaScript, and React. I enjoy crafting pixel-perfect UI components and ensuring a seamless user experience.
-Backend Developer: Learning Node.js, Express.js, and MongoDB. I am working on building scalable and efficient server-side applications.
-Design Enthusiast: Experienced in using Figma for designing wireframes, prototypes, and high-fidelity mockups.
-Lifelong Learner: Always keen on learning new technologies, refining my skills, and staying updated with industry trends.
+**Frontend Developer**: Skilled in HTML, CSS, JavaScript, and React. I enjoy crafting pixel-perfect UI components and ensuring a seamless user experience.
 
-🛠️ Tech Stack
+**Backend Developer**: Learning Node.js, Express.js, and MongoDB. I am working on building scalable and efficient server-side applications.
 
-Languages: JavaScript, HTML, CSS
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js, MongoDB
-Tools: Git, GitHub, Figma, VSCode
-Other Interests: Exploring MERN stack, API development, and improving website performance.
+**Design Enthusiast**: Experienced in using Figma for designing wireframes, prototypes, and high-fidelity mockups.
 
-💼 What I'm Working On
+**Lifelong Learner**: Always keen on learning new technologies, refining my skills, and staying updated with industry trends.
+
+## 🛠️ Tech Stack
+
+**Languages**: JavaScript, HTML, CSS
+
+**Frontend**: React.js, Tailwind CSS, Redux
+
+**Backend**: Node.js, Express.js, MongoDB
+
+**Tools**: Git, GitHub, Figma, VSCode
+
+**Other Interests**: Exploring MERN stack, API development, and improving website performance.
+
+## 💼 What I'm Working On
 
 Currently, I'm focused on:
 
